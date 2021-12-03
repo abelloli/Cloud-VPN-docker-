@@ -75,7 +75,13 @@ sysctls:
 - net.ipv4.conf.all.src_valid_mark=1
 
      
-     
+I then ran  #docker-compose up -d  to start wireguard
+
+
+I used #docker-compose logs -f wireguard  to get the qr code and added the vpn to my phone
+
+
+
      
      
 
