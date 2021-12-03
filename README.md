@@ -88,7 +88,14 @@ I used #docker-compose logs -f wireguard  to get the qr code and added the vpn t
      
      
      
-     https://user-images.githubusercontent.com/45412924/144652158-dac9bb13-ebe4-4ca0-81ab-9e4077120be9.PNG
+ https://user-images.githubusercontent.com/45412924/144652158-dac9bb13-ebe4-4ca0-81ab-9e4077120be9.PNG
+ https://user-images.githubusercontent.com/45412924/144652365-dba77add-66e3-4aa2-88a5-987080227f23.PNG
+ https://user-images.githubusercontent.com/45412924/144652372-bcb8483f-6d3f-4a5e-93aa-65453d81cfe2.PNG
+
+
+After I got it workking on my phone I copied the data from #~/wireguard/config/peer_pc1/peer_pc1.conf   to get it set up on my desktop
+
+https://user-images.githubusercontent.com/45412924/144652577-80f8eb6f-4288-4c27-8bef-ae5e3abf3351.PNG
 
      
 
