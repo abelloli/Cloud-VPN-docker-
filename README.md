@@ -55,7 +55,15 @@ services:
       
      I ran #docker-compose logs -f wireguard to get the QR code for my phone.
      
-     ![Before VPN](https://user-images.githubusercontent.com/45412924/144650558-e9b45761-2b17-432c-acb1-61428b3f3dde.PNG)
+     
+     
+     
+
+     
+     
+     
+     
+     
 
 
 
